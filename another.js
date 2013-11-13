@@ -13,6 +13,9 @@ function saySome (name) {
 saySome(" james Madison ");
 */
 
+//here is from github 
+
+
 var x = 0;
 var y = 0;
 var frame;
